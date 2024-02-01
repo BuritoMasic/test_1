@@ -6,6 +6,8 @@ kind: Service
 spec:
   template:
     spec:
+fgkmdb,c
+dsjgnmb kjsdban kjasbhdmn ajsdb m,
       containers:
       - image: IMAGE_URL
         ports:
